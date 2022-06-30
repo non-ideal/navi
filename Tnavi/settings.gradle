@@ -1,0 +1,2 @@
+rootProject.name = "T-navi"
+include ':app'
